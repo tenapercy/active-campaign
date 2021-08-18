@@ -1,0 +1,14 @@
+.contact-page {
+    display: grid;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.notification {
+    font-size: 24px;
+    text-align: center;
+    margin-top: 40px;
+}
