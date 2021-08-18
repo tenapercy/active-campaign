@@ -23,4 +23,4 @@ This is a sample project using ActiveCampaign's API, styleguide, and documentati
 - Better error handling and loading state
 - Hide api key as an environment variable somehow
 - Use SASS
-- Better handling of empty values
+- Better handling of empty values in table
