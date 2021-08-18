@@ -29,6 +29,7 @@ export const useFetchContactData = () => {
 const Notification = ({messageType}) => (
     <div className='notification'>{MESSAGES[messageType]}</div>
 );
+
 const ContactsPage = () => {
     const {contacts, isLoading, hasError} = useFetchContactData();
 

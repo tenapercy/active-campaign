@@ -14,6 +14,13 @@ This is a sample project using ActiveCampaign's API, styleguide, and documentati
 - Styling: I created an AC account and created contacts to view the table and grab the font colors. I tried to match the things that were not given but admittedly I am not great at differentiating colors and sizes by eye.
 - Testing: I would add component tests but testing async hooks has sent me down a time-consuming rabbit hole
 
-### Deployment
+## Future Improvements
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+- Use typescript
+- Add component tests
+- Add caching
+- Add pagination, filtering, sorting, other table controls
+- Better error handling and loading state
+- Hide api key as an environment variable somehow
+- Use SASS
+- Better handling of empty values
